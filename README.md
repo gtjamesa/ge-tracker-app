@@ -30,14 +30,21 @@ First, you will need to download the "TestFlight" app. Once this is downloaded, 
     <td>Production</td>
   </tr>
   <tr>
-    <td>0.0.15</td>
-    <td>0.0.15</td>
-    <td>0.0.15</td>
+    <td>0.0.16</td>
+    <td>0.0.16</td>
+    <td>0.0.16</td>
     <td>-</td>
   </tr>
 </table>
 
 ## Release Notes
+
+**0.0.16**
+
+* Graphs can now be zoomed
+* Graphs render faster
+* RS Updates display on the graphs
+* Price data can be long pressed to stay on the graph until long pressed again
 
 **0.0.15**
 

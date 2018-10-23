@@ -30,14 +30,21 @@ First, you will need to download the "TestFlight" app. Once this is downloaded, 
     <td>Production</td>
   </tr>
   <tr>
-    <td>0.0.16</td>
-    <td>0.0.16</td>
-    <td>0.0.16</td>
+    <td>0.0.17</td>
+    <td>0.0.17</td>
+    <td>0.0.17</td>
     <td>-</td>
   </tr>
 </table>
 
 ## Release Notes
+
+**0.0.17**
+
+* Added Profit Tracker:
+    * Graph
+    * Table
+    * Most Profitable Items
 
 **0.0.16**
 

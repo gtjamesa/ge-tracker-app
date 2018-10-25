@@ -30,14 +30,19 @@ First, you will need to download the "TestFlight" app. Once this is downloaded, 
     <td>Production</td>
   </tr>
   <tr>
-    <td>0.0.17</td>
-    <td>0.0.17</td>
-    <td>0.0.17</td>
+    <td>0.0.18</td>
+    <td>0.0.18</td>
+    <td>0.0.18</td>
     <td>-</td>
   </tr>
 </table>
 
 ## Release Notes
+
+**0.0.18**
+
+* Fixed bug when rendering graph in production only
+* Added Bugsnag error tracking 
 
 **0.0.17**
 

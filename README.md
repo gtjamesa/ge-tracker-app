@@ -30,14 +30,25 @@ First, you will need to download the "TestFlight" app. Once this is downloaded, 
     <td>Production</td>
   </tr>
   <tr>
-    <td>0.0.18</td>
-    <td>0.0.18</td>
-    <td>0.0.18</td>
+    <td>0.0.19</td>
+    <td>0.0.19</td>
+    <td>0.0.19</td>
     <td>-</td>
   </tr>
 </table>
 
 ## Release Notes
+
+**0.0.19**
+
+* Add CodePush for faster deployment of app updates
+* Profit Tracker now shows status messages
+* Add intro screen for new users
+* Add Register/Forgot Password functionality
+* Upgraded to RN 57.x/target Android API 27
+* Add Android round icon
+* Fix search results clipping
+* Fix PT graph bug with 0 transactions
 
 **0.0.18**
 

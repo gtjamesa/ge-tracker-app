@@ -30,14 +30,24 @@ First, you will need to download the "TestFlight" app. Once this is downloaded, 
     <td>Production</td>
   </tr>
   <tr>
-    <td>0.0.19</td>
-    <td>0.0.19</td>
-    <td>0.0.19</td>
+    <td>0.1.0</td>
+    <td>0.1.0</td>
+    <td>0.1.0</td>
     <td>-</td>
   </tr>
 </table>
 
 ## Release Notes
+
+**0.1.0**
+
+* Add Android payment flow (Google Pay)
+* Show app version in My Account menu
+* Disable swiping on Item screen to use the swipable buttons
+* Fix tabbed navigators incorrectly showing "Exit the app?"
+* Attach the user to automatic bug reports
+* Rearrange high/lows on the graphs to match the website
+* Fix the duration picker in the graph header switching back to 'Week'
 
 **0.0.19**
 

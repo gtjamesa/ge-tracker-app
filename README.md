@@ -30,14 +30,20 @@ First, you will need to download the "TestFlight" app. Once this is downloaded, 
     <td>Production</td>
   </tr>
   <tr>
-    <td>0.1.0</td>
-    <td>0.1.0</td>
-    <td>0.1.0</td>
+    <td>0.1.1</td>
+    <td>0.1.1</td>
+    <td>0.1.1</td>
     <td>-</td>
   </tr>
 </table>
 
 ## Release Notes
+
+**0.1.1**
+
+* Add tooltips when you tap the values on the right-hand side
+* iPhone X support
+* Removed "View Flipping Info" from the search screen
 
 **0.1.0**
 

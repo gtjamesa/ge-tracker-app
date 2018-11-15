@@ -30,14 +30,19 @@ First, you will need to download the "TestFlight" app. Once this is downloaded, 
     <td>Production</td>
   </tr>
   <tr>
-    <td>0.1.1</td>
-    <td>0.1.1</td>
-    <td>0.1.1</td>
+    <td>0.2.0</td>
+    <td>0.2.0</td>
+    <td>0.2.0</td>
     <td>-</td>
   </tr>
 </table>
 
 ## Release Notes
+
+**0.2.0**
+
+* Double tap when zoomed on a graph to return to the original graph
+* Fixed graph clipping on iPhone X
 
 **0.1.1**
 

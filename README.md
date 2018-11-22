@@ -30,14 +30,20 @@ First, you will need to download the "TestFlight" app. Once this is downloaded, 
     <td>Production</td>
   </tr>
   <tr>
-    <td>0.2.0</td>
-    <td>0.2.0</td>
-    <td>0.2.0</td>
+    <td>0.3.2</td>
+    <td>0.3.2</td>
+    <td>0.3.2</td>
     <td>-</td>
   </tr>
 </table>
 
 ## Release Notes
+
+**0.3.2**
+
+* Added profit tracker details view (click a row in Table)
+* Added Firebase push notifications
+* Fix bug with favourite items (and other lists) using the wrong icon after the list updates
 
 **0.2.0**
 

@@ -30,14 +30,28 @@ First, you will need to download the "TestFlight" app. Once this is downloaded, 
     <td>Production</td>
   </tr>
   <tr>
-    <td>0.3.2</td>
-    <td>0.3.2</td>
-    <td>0.3.2</td>
+    <td>0.4.0</td>
+    <td>0.4.0</td>
+    <td>0.4.0</td>
     <td>-</td>
   </tr>
 </table>
 
 ## Release Notes
+
+**0.4.0**
+
+* Add a float action button to the item screen containing Profit Tracker and Price Alerts
+* Add Members under Item Statistics
+* Tap once when searching to view the item (instead of double tap)
+* Add text above the graph on the item screen saying to tap to view the interactive graph
+* Price alerts can be created/deleted - updating/global yet to be added
+
+**0.3.3**
+
+* Respond to Price Alert notifications
+* Respond to RS Update notifications
+* Add GE Limits screen
 
 **0.3.2**
 
